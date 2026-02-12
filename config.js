@@ -79,8 +79,8 @@ const CONFIG = {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
         musicUrl: "https://res.cloudinary.com/db8z1uiut/video/upload/v1770932160/Rihanna_-_Don_t_Stop_the_Music_Lyrics_pvecbi.mp3", // Music streaming URL
-        startText: "🎵 Play Music",        // Button text to start music
-        stopText: "🔇 Stop Music",         // Button text to stop music
+        startText: "🎵 Musik an",        // Button text to start music
+        stopText: "🔇 Musik aus",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
     }
 };
