@@ -42,16 +42,16 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: " Nach 2 Weißwein spüre ich endlich etwas 🍷💝",  // Shows when they go past 5000%
-        high: "Der Kellner ist heiß 👨",              // Shows when they go past 1000%
-        normal: "Pizza schmeckt 🥰"                           // Shows when they go past 100%
+        extreme: "Ich würde leiber um 19:00 Uhr im Karl Mags Süß sein 🍷💝",  // Shows when they go past 5000%
+        high: "Immerhin schemckt die Pizza 👨",              // Shows when they go past 1000%
+        normal: "gar nicht, bist eh hässlich"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Jippiiii 🎉💝💖💝💓",
-        message: "Wird ganz lustig, hoffe ich zumindest",
-        emojis: "🍕💖🤗"  // These will bounce around
+        title: "Schade",
+        message: "Schön das du da warst",
+        emojis: "..."  // These will bounce around
     },
 
     // Color scheme for the website
